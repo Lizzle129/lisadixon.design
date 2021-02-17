@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 
 body {
-	font: 300 14px/1.8 'Raleway', serif;
+	font-family: 'Raleway', sans-serif;
+	font: 300 14px/1.8 'Raleway', sans-serif;
 	color: #666;
 	overflow-x: hidden;
 }
@@ -63,7 +64,7 @@ a,
 /* ---------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-	font: 700 40px/1.2 Raleway, serif;
+	font: 700 40px/1.2 'Raleway', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	margin: 5px 0 5px;
@@ -169,7 +170,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .btn {
-	font-family: Raleway, serif;
+	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 13px;
@@ -270,7 +271,7 @@ textarea.form-control {
 }
 
 .pfblock-subtitle {
-	font-family: Raleway, serif;
+	font-family: 'Raleway', sans-serif;
 	font-style: normal;
 	font-size: 18px;
 }
@@ -380,7 +381,7 @@ textarea.form-control {
 }
 
 .start {
-	font-family: Raleway, serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	text-transform: none;
@@ -519,7 +520,7 @@ textarea.form-control {
 	border-radius: 0;
 	margin: 0;
 	text-transform: uppercase;
-	font-family: Raleway, serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 .navbar-custom,
@@ -548,7 +549,7 @@ textarea.form-control {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+    	font-family: 'Lobster', cursive;
 }
 
 .navbar-custom .dropdown-menu {

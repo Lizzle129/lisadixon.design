@@ -96,7 +96,7 @@
 			// Superslides fullscreen slider
 			$('#slides').superslides({
 				animation: 'fade', // Choose between fade or slide.
-				play: '5000' // Pauses 5 seconds between each slide before it transitions to the next slide.
+				/**play: '5000' // Pauses 5 seconds between each slide before it transitions to the next slide.**/
 			});
 
 			// Services slider

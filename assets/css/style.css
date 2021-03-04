@@ -1683,7 +1683,7 @@ i.rating {
 }
 
 .contact .header-inherited {
-	padding-top:80px;
+	padding-top:20px;
 }
 
 .contact h1,
@@ -2288,7 +2288,7 @@ p.next-project span:hover {
 	}
 
 	.contact .header-inherited {
-		height:600px;
+		height:300px;
 	}
 
 	.contact-form .form-column {

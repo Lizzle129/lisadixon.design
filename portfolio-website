@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<title>Lisa Dixon | Portfolio</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" href="assets/css/magnific-popup.css">
+		<link rel="stylesheet" href="assets/css/reset.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+		<script src="assets/js/scripts/modernizr.js"></script>
+		<script src="assets/js/scripts/pace.js"></script>
+		<script>(function(w){var dpr=((w.devicePixelRatio===undefined)?1:w.devicePixelRatio);if(!!w.navigator.standalone){var r=new XMLHttpRequest();r.open('GET','/retinaimages.php?devicePixelRatio='+dpr,false);r.send()}else{document.cookie='devicePixelRatio='+dpr+'; path=/'}})(window)</script>
+		<noscript><style id="devicePixelRatio" media="only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)">html{background-image:url("/retinaimages.php?devicePixelRatio=2")}</style></noscript>
+	</head>
+	<body class="body-shift-over personal menu-close-automatically">
+		<nav class="menu" id="menuNav">
+			<div class="menu-display">
+				<a href="https://lisadixon.design/#introduction" class="home">Home</a>
+				<i class="fa fa-remove menu-close"></i>
+				<a href="https://lisadixon.design/#services">Services</a>
+				<a href="https://lisadixon.design/#process">Process</a>
+				<a href="https://lisadixon.design/#portfolio">Portfolio</a>
+				<a href="https://lisadixon.design/#about-me">About</a>
+				<a href="https://lisadixon.design/#contact">Contact</a>
+				<a href="https://twitter.com/_lisa_dixon#" target="blank"><i class="fa fa-twitter large-icon border-none"></i></a>
+				<a href="https://www.linkedin.com/in/lisadixon129#" target="blank"><i class="fa fa-linkedin large-icon border-none"></i></a>
+				<a href="https://dribbble.com/Lizzle129" target="blank"><i class="fa fa-dribbble large-icon border-none"></i></a>
+				<a href="http://instagram.com/lisadixondesign" target="blank"><i class="fa fa-instagram large-icon border-none"></i></a>
+			</div>
+			<div id="menuToggle"><i class="fa fa-reorder"></i></div>
+		</nav>
+		<div id="top"></div>
+		<div class="header" style="background-image: url('assets/images/placeholder-slide-3.jpg');">
+			<div class="header-center fade-in">
+				<h1 class="fittext light">Bass Pro Shops &amp; Cabela's</h1>
+				<h3 class="light">The Projects. The Details. The Results.</h3>
+				<p><a href="#portfolio-client-description" class="button border-light">Read All About It</a></p>
+			</div>
+		</div>
+		<section id="portfolio-client-description" class="portfolio-client-description">
+			<div class="row">
+				<div class="ten columns offset-by-one title">
+					<h1></h1>
+					<h2><a href="#">Bass Pro Shops &amp; Cabela's</a></h2>
+					<hr>
+				</div>
+			</div>
+			<div class="row text-center">
+				<div class="twelve columns">
+					<h3 class="margin-bottom">Project Description</h3>
+					<p>For the last year I have worked on Bass Pro Shops and Cabela's UX Design team. During that time we worked to give both websites a fresh new look and improve the customer experience. I worked closely with the Project Manager, Developers, QA and other designers to create a seemless user experience.</p>
+				</div>
+			</div>
+		</section>
+		<section class="portfolio-slider-images">
+			<div class="row">
+				<div id="portfolio-slider" class="twelve columns">
+					<ul>
+						<li><img src="assets/images/placeholder-portfolio-slider-1@mobilescreens.jpg"></li>
+						<li><img src="assets/images/placeholder-portfolio-slider-1@mobileapp.jpg"></li>
+						<li><img src="assets/images/placeholder-portfolio-slider-1@products.jpg"></li>
+						<li><img src="assets/images/placeholder-portfolio-slider-1@welcome.jpg"></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section class="portfolio-gallery"><h3 class="margin-bottom">Click to View Live Website</h3>
+			<div class="row">
+				<div class="project-item desktop-three columns tablet-six columns mobile-six columns">
+					<a class="popup-link" target="_blank" href="https://www.basspro.com/shop/en#">
+						<span class="project-hover">
+							<span class="iconworks icons huge magnify-item" data-icon="&#48;"></span>
+						</span>
+						<img src="assets/images/placeholder-thumbnail-180@bps.jpg">
+					</a>
+				</div>
+
+				<div class="project-item desktop-three columns tablet-six columns mobile-six columns">
+					<a class="popup-link" target="_blank" href="https://www.cabelas.com/shop/en#">
+						<span class="project-hover">
+							<span class="iconworks icons huge magnify-item" data-icon="&#48;"></span>
+						</span>
+						<img src="assets/images/placeholder-thumbnail-180@cab.jpg">
+					</a>
+				</div>
+			</div>
+		</section>
+				<!--<div class="project-item desktop-three columns tablet-six columns mobile-six columns">
+					<a class="popup" href="assets/images/placeholder-thumbnail-18@2x.jpg">
+						<span class="project-hover">
+							<span class="iconworks icons huge magnify-item" data-icon="&#53;"></span>
+						</span>
+						<img src="assets/images/placeholder-thumbnail-18@2x.jpg">
+					</a>
+				</div>
+				<div class="project-item desktop-three columns tablet-six columns mobile-six columns">
+					<a class="popup" href="assets/images/placeholder-thumbnail-19@2x.jpg">
+						<span class="project-hover">
+							<span class="iconworks icons huge magnify-item" data-icon="&#53;"></span>
+						</span>
+						<img src="assets/images/placeholder-thumbnail-19@2x.jpg">
+					</a>
+				</div>
+				<div class="project-item desktop-three columns tablet-six columns mobile-six columns">
+					<a class="popup" href="assets/images/placeholder-thumbnail-20@2x.jpg">
+						<span class="project-hover">
+							<span class="iconworks icons huge magnify-item" data-icon="&#53;"></span>
+						</span>
+						<img src="assets/images/placeholder-thumbnail-20@2x.jpg">
+					</a>
+				</div>
+				<div class="project-item desktop-three columns tablet-six columns mobile-six columns">
+					<a class="popup" href="assets/images/placeholder-thumbnail-21@2x.jpg">
+						<span class="project-hover">
+							<span class="iconworks icons huge magnify-item" data-icon="&#53;"></span>
+						</span>
+						<img src="assets/images/placeholder-thumbnail-21@2x.jpg">
+					</a>
+				</div>-->
+			</div>
+		</section>
+		<section class="portfolio-details">
+			<div class="ten columns offset-by-one title">
+				<h1>Project Details</h1>
+				<h2>Mobile App Product Design</h2>
+				<hr>
+				<br />
+			</div>
+			<div class="row text-left">
+				<div class="one column">
+					<span class="column-icon iconworks icons medium-small" data-icon="&#123;"></span>
+				</div>
+				<div class="five columns">
+					<h3>Research</h3>
+					<p>Every update made to the websites had to be supported by research. We used many different online analytic tools to pull data on user behavior and activity. My research also included competitive analysis, user testing and online research.</p>
+				</div>
+				<div class="one column">
+					<span class="column-icon iconworks icons medium-small" data-icon="&#39;"></span>
+				</div>
+				<div class="five columns">
+					<h3>UIUX Design</h3>
+					<p>The design phase of the work was user centered while taking into account the different personas that interact with the websites. Many different designs were prototyped and tested before the final design was shared with Product Managers and Stakeholders.</p>
+				</div>
+				<div class="one column">
+					<span class="column-icon iconworks icons medium-small" data-icon="&#72;"></span>
+				</div>
+				<div class="five columns">
+					<h3>Testing</h3>
+					<p>Once the final designs were approved I worked closely with the Digital Product Manager and Development teams to get the websites updated. I helped the QA team test each release and wrote out tickets for any bugs or fixes that were found during that process.</p>
+				</div>
+				<div class="one column">
+					<span class="column-icon iconworks icons medium-small" data-icon="&#112;"></span>
+				</div>
+				<div class="five columns">
+					<h3>Product Management</h3>
+					<p>Once the final product has been released the work did not end. Managing the product and making sure it still operates and looks how it was designed was a part of the ongoing work for both websites.</p>
+				</div>
+			</div>
+		</section>
+		<section class="contact-info personal-portfolio">
+			<div class="row">
+				<div class="twelve columns">
+					<h3>Are you ready to work together?</h3>
+					<p><a href="mailto:ldixon129@gmail.com" class="button border-gray"><i class="icon-left fa fa-envelope"></i>Send Me a Message</a></p>
+				</div>
+			</div>
+		</section>
+		<!--<section class="portfolio-navigation">
+			<div class="row">
+				<div class="twelve columns">
+					<p class="prev-project"><a href="index-personal.html"><i class="fa fa-angle-left icons medium"></i></a></p>
+					<p class="all-projects">
+						<a href="index-personal.html#portfolio" class="menu-button-grid">
+							<span class="top-left"></span>
+							<span class="top-right"></span>
+							<span class="bottom-left"></span>
+							<span class="bottom-right"></span>
+						</a>
+					</p>
+					<p class="next-project"><a href="index-personal.html"><i class="fa fa-angle-right icons medium"></i></a></p>
+				</div>
+			</div>
+		</section>-->
+		<section id="contact" class="contact">
+			<div class="header-inherited" style="background-image: url('assets/images/placeholder-slide-4@2x.jpg');">
+				<div class="row">
+					<div class="eight columns offset-by-two">
+						<div id="contact-slider">
+							<ul>
+								<li>
+									<a href="https://twitter.com/lisadixondesign#" target="blank"><i class="fa fa-twitter large-icon border-none"></i></a>
+									<a href="https://www.linkedin.com/in/lisadixon129#" target="blank"><i class="fa fa-linkedin large-icon border-none"></i></a>
+									<a href="http://instagram.com/lisadixon.design" target="blank"><i class="fa fa-instagram large-icon border-none"></i></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="credit-info">
+			<p class="credit">&copy; <script>document.write(new Date().getFullYear())</script> Lisa Dixon Design All Rights Reserved</p>
+			<a href="#introduction" class="back-to-top"><i class="fa fa-angle-up icons medium"></i></a>
+		</div>
+		<div id="loader">
+			<img alt="loading image" src="data:image/gif;base64,R0lGODlhIAAgAPMAAP///wAAAMbGxoSEhLa2tpqamjY2NlZWVtjY2OTk5Ly8vB4eHgQEBAAAAAAAAAAAACH+GkNyZWF0ZWQgd2l0aCBhamF4bG9hZC5pbmZvACH5BAAKAAAAIf8LTkVUU0NBUEUyLjADAQAAACwAAAAAIAAgAAAE5xDISWlhperN52JLhSSdRgwVo1ICQZRUsiwHpTJT4iowNS8vyW2icCF6k8HMMBkCEDskxTBDAZwuAkkqIfxIQyhBQBFvAQSDITM5VDW6XNE4KagNh6Bgwe60smQUB3d4Rz1ZBApnFASDd0hihh12BkE9kjAJVlycXIg7CQIFA6SlnJ87paqbSKiKoqusnbMdmDC2tXQlkUhziYtyWTxIfy6BE8WJt5YJvpJivxNaGmLHT0VnOgSYf0dZXS7APdpB309RnHOG5gDqXGLDaC457D1zZ/V/nmOM82XiHRLYKhKP1oZmADdEAAAh+QQACgABACwAAAAAIAAgAAAE6hDISWlZpOrNp1lGNRSdRpDUolIGw5RUYhhHukqFu8DsrEyqnWThGvAmhVlteBvojpTDDBUEIFwMFBRAmBkSgOrBFZogCASwBDEY/CZSg7GSE0gSCjQBMVG023xWBhklAnoEdhQEfyNqMIcKjhRsjEdnezB+A4k8gTwJhFuiW4dokXiloUepBAp5qaKpp6+Ho7aWW54wl7obvEe0kRuoplCGepwSx2jJvqHEmGt6whJpGpfJCHmOoNHKaHx61WiSR92E4lbFoq+B6QDtuetcaBPnW6+O7wDHpIiK9SaVK5GgV543tzjgGcghAgAh+QQACgACACwAAAAAIAAgAAAE7hDISSkxpOrN5zFHNWRdhSiVoVLHspRUMoyUakyEe8PTPCATW9A14E0UvuAKMNAZKYUZCiBMuBakSQKG8G2FzUWox2AUtAQFcBKlVQoLgQReZhQlCIJesQXI5B0CBnUMOxMCenoCfTCEWBsJColTMANldx15BGs8B5wlCZ9Po6OJkwmRpnqkqnuSrayqfKmqpLajoiW5HJq7FL1Gr2mMMcKUMIiJgIemy7xZtJsTmsM4xHiKv5KMCXqfyUCJEonXPN2rAOIAmsfB3uPoAK++G+w48edZPK+M6hLJpQg484enXIdQFSS1u6UhksENEQAAIfkEAAoAAwAsAAAAACAAIAAABOcQyEmpGKLqzWcZRVUQnZYg1aBSh2GUVEIQ2aQOE+G+cD4ntpWkZQj1JIiZIogDFFyHI0UxQwFugMSOFIPJftfVAEoZLBbcLEFhlQiqGp1Vd140AUklUN3eCA51C1EWMzMCezCBBmkxVIVHBWd3HHl9JQOIJSdSnJ0TDKChCwUJjoWMPaGqDKannasMo6WnM562R5YluZRwur0wpgqZE7NKUm+FNRPIhjBJxKZteWuIBMN4zRMIVIhffcgojwCF117i4nlLnY5ztRLsnOk+aV+oJY7V7m76PdkS4trKcdg0Zc0tTcKkRAAAIfkEAAoABAAsAAAAACAAIAAABO4QyEkpKqjqzScpRaVkXZWQEximw1BSCUEIlDohrft6cpKCk5xid5MNJTaAIkekKGQkWyKHkvhKsR7ARmitkAYDYRIbUQRQjWBwJRzChi9CRlBcY1UN4g0/VNB0AlcvcAYHRyZPdEQFYV8ccwR5HWxEJ02YmRMLnJ1xCYp0Y5idpQuhopmmC2KgojKasUQDk5BNAwwMOh2RtRq5uQuPZKGIJQIGwAwGf6I0JXMpC8C7kXWDBINFMxS4DKMAWVWAGYsAdNqW5uaRxkSKJOZKaU3tPOBZ4DuK2LATgJhkPJMgTwKCdFjyPHEnKxFCDhEAACH5BAAKAAUALAAAAAAgACAAAATzEMhJaVKp6s2nIkolIJ2WkBShpkVRWqqQrhLSEu9MZJKK9y1ZrqYK9WiClmvoUaF8gIQSNeF1Er4MNFn4SRSDARWroAIETg1iVwuHjYB1kYc1mwruwXKC9gmsJXliGxc+XiUCby9ydh1sOSdMkpMTBpaXBzsfhoc5l58Gm5yToAaZhaOUqjkDgCWNHAULCwOLaTmzswadEqggQwgHuQsHIoZCHQMMQgQGubVEcxOPFAcMDAYUA85eWARmfSRQCdcMe0zeP1AAygwLlJtPNAAL19DARdPzBOWSm1brJBi45soRAWQAAkrQIykShQ9wVhHCwCQCACH5BAAKAAYALAAAAAAgACAAAATrEMhJaVKp6s2nIkqFZF2VIBWhUsJaTokqUCoBq+E71SRQeyqUToLA7VxF0JDyIQh/MVVPMt1ECZlfcjZJ9mIKoaTl1MRIl5o4CUKXOwmyrCInCKqcWtvadL2SYhyASyNDJ0uIiRMDjI0Fd30/iI2UA5GSS5UDj2l6NoqgOgN4gksEBgYFf0FDqKgHnyZ9OX8HrgYHdHpcHQULXAS2qKpENRg7eAMLC7kTBaixUYFkKAzWAAnLC7FLVxLWDBLKCwaKTULgEwbLA4hJtOkSBNqITT3xEgfLpBtzE/jiuL04RGEBgwWhShRgQExHBAAh+QQACgAHACwAAAAAIAAgAAAE7xDISWlSqerNpyJKhWRdlSAVoVLCWk6JKlAqAavhO9UkUHsqlE6CwO1cRdCQ8iEIfzFVTzLdRAmZX3I2SfZiCqGk5dTESJeaOAlClzsJsqwiJwiqnFrb2nS9kmIcgEsjQydLiIlHehhpejaIjzh9eomSjZR+ipslWIRLAgMDOR2DOqKogTB9pCUJBagDBXR6XB0EBkIIsaRsGGMMAxoDBgYHTKJiUYEGDAzHC9EACcUGkIgFzgwZ0QsSBcXHiQvOwgDdEwfFs0sDzt4S6BK4xYjkDOzn0unFeBzOBijIm1Dgmg5YFQwsCMjp1oJ8LyIAACH5BAAKAAgALAAAAAAgACAAAATwEMhJaVKp6s2nIkqFZF2VIBWhUsJaTokqUCoBq+E71SRQeyqUToLA7VxF0JDyIQh/MVVPMt1ECZlfcjZJ9mIKoaTl1MRIl5o4CUKXOwmyrCInCKqcWtvadL2SYhyASyNDJ0uIiUd6GGl6NoiPOH16iZKNlH6KmyWFOggHhEEvAwwMA0N9GBsEC6amhnVcEwavDAazGwIDaH1ipaYLBUTCGgQDA8NdHz0FpqgTBwsLqAbWAAnIA4FWKdMLGdYGEgraigbT0OITBcg5QwPT4xLrROZL6AuQAPUS7bxLpoWidY0JtxLHKhwwMJBTHgPKdEQAACH5BAAKAAkALAAAAAAgACAAAATrEMhJaVKp6s2nIkqFZF2VIBWhUsJaTokqUCoBq+E71SRQeyqUToLA7VxF0JDyIQh/MVVPMt1ECZlfcjZJ9mIKoaTl1MRIl5o4CUKXOwmyrCInCKqcWtvadL2SYhyASyNDJ0uIiUd6GAULDJCRiXo1CpGXDJOUjY+Yip9DhToJA4RBLwMLCwVDfRgbBAaqqoZ1XBMHswsHtxtFaH1iqaoGNgAIxRpbFAgfPQSqpbgGBqUD1wBXeCYp1AYZ19JJOYgH1KwA4UBvQwXUBxPqVD9L3sbp2BNk2xvvFPJd+MFCN6HAAIKgNggY0KtEBAAh+QQACgAKACwAAAAAIAAgAAAE6BDISWlSqerNpyJKhWRdlSAVoVLCWk6JKlAqAavhO9UkUHsqlE6CwO1cRdCQ8iEIfzFVTzLdRAmZX3I2SfYIDMaAFdTESJeaEDAIMxYFqrOUaNW4E4ObYcCXaiBVEgULe0NJaxxtYksjh2NLkZISgDgJhHthkpU4mW6blRiYmZOlh4JWkDqILwUGBnE6TYEbCgevr0N1gH4At7gHiRpFaLNrrq8HNgAJA70AWxQIH1+vsYMDAzZQPC9VCNkDWUhGkuE5PxJNwiUK4UfLzOlD4WvzAHaoG9nxPi5d+jYUqfAhhykOFwJWiAAAIfkEAAoACwAsAAAAACAAIAAABPAQyElpUqnqzaciSoVkXVUMFaFSwlpOCcMYlErAavhOMnNLNo8KsZsMZItJEIDIFSkLGQoQTNhIsFehRww2CQLKF0tYGKYSg+ygsZIuNqJksKgbfgIGepNo2cIUB3V1B3IvNiBYNQaDSTtfhhx0CwVPI0UJe0+bm4g5VgcGoqOcnjmjqDSdnhgEoamcsZuXO1aWQy8KAwOAuTYYGwi7w5h+Kr0SJ8MFihpNbx+4Erq7BYBuzsdiH1jCAzoSfl0rVirNbRXlBBlLX+BP0XJLAPGzTkAuAOqb0WT5AH7OcdCm5B8TgRwSRKIHQtaLCwg1RAAAOwAAAAAAAAAAAA==" />
+		</div>
+		<script src="assets/js/scripts/jquery.min.js"></script>
+		<script src="assets/js/scripts/classie.js"></script>
+		<script src="assets/js/scripts/smoothscroll.js"></script>
+		<script src="assets/js/scripts/jquery.fittext.js"></script>
+		<script src="assets/js/scripts/jquery.superslides.min.js"></script>
+		<script src="assets/js/scripts/jquery.sudoslider.min.js"></script>
+		<script src="assets/js/scripts/jquery.mixitup.min.js"></script>
+		<script src="assets/js/scripts/jquery.magnific-popup.min.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>
